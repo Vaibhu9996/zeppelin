@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Sapentia 2018"
 email: "lac.svnit@gmail.com"
 description: "Unleash your Creativity"
-baseurl: "/lac"
+baseurl: "/zeppelin"
 url: "https://vaibhu9996.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
